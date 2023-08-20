@@ -1,0 +1,47 @@
+
+
+			*********  :: GENERATED TIMETABLE  :: *********
+
+
+CSE
+
+		day 1	      day 2	     day 3	    day 4	    day 5
+.....................................................................................
+  lecture 1         FPSD	      FPSD	      FPSD	     Maths	     Maths	
+               	 DR.KR	     DR.KR	     DR.KR	     DR.NP	     DR.NP	
+
+  lecture 2        Maths	      BEEE	      BEEE	       evs	       evs	
+                	DR.NP	  PROF.KSR	  PROF.KSR	    DR.BHL	    DR.BHL	
+
+  lecture 3        lunch	     lunch	     lunch	     lunch	     lunch	
+                     	          	          	          	          	
+
+  lecture 4          Fds	       Fds	   library	   FPSDprogramming	   mechanicalpractice	
+            	PROF.KSG   PROF.KSG	      Nill	      DR.KR	     DR.ASF	
+
+  lecture 5      library	   library	   library	   FPSDprogramming	   mechanicalpractice	
+                	 Nill	     	 Nill	     Nill	      DR.KR	      DR.ASF	
+
+
+
+EEE
+
+		day 1	      day 2	    day 3	    day 4            day 5
+.....................................................................................
+  lecture 1        Maths	     Maths	     Maths	       evs	       evs	
+              	 DR.NP	    DR.NP	    DR.NP	  PROF.KSR	  PROF.KSR	
+
+  lecture 2     Circuits	  Circuits	  Circuits	 Mechanics	 Mechanics	
+             	 DR.DFS	    DR.DFS	    DR.DFS	     DR.HB	     DR.HB	
+
+  lecture 3        lunch	     lunch	     lunch	     lunch	     lunch	
+                     	          	          	          	          	
+
+  lecture 4         BEEE	      BEEE	      BEEE	   mechanicalpractice	   library	
+              	 DR.BEL	    DR.BEL	    DR.BEL	     DR.ASF	      Nill	
+
+  lecture 5      library	   library	   library	   mechanicalpractice	   library	
+               	  Nill	      Nill	      Nill	      DR.ASF	      Nill	
+
+
+
